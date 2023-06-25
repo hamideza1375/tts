@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     flex: 0.4,
   },
   playButton: {
-    flex: 0.6,
+    flex: 1,
   },
 });
 
