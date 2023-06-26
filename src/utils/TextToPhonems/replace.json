@@ -1,0 +1,14 @@
+// Shift + A =  َ
+// Shift +  D =  ِ
+// Shift + S =  ُ
+// Shift + N = أ
+// Shift + Q =  ً
+// Shift + F =  ّ
+// ْ
+[
+    {"searchValue":/رفتن/gi, "newValue":"رفْتن"},
+    {"searchValue":/خوردن/gi, "newValue":"خُرْدن"},
+    {"searchValue":/شستن/gi, "newValue":"شُسْتن"},
+    {"searchValue":/گفتن/gi, "newValue":"گُفْتَن"},
+    {"searchValue":/نخوردم/gi, "newValue":"نَخُرْدَم"}
+]

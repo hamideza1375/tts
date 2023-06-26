@@ -6,8 +6,7 @@ import Sound from 'react-native-sound';
 
 import textToPhonems from './utils/TextToPhonems';
 import phonemsToFFMpeg from './utils/PhonemsToFFMpeg';
-
-import replace from './replace.json';
+import replace from './utils/TextToPhonems/replace.json';
 
 
 let outputSound
