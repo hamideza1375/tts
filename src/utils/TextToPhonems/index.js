@@ -32,6 +32,11 @@ function wordToPhonems(word) {
           idx += 1;
           continue;
         }
+        if (word.charCodeAt(idx + 1) === 0x0650) {
+          phonetics.push('e');
+          idx += 1;
+          continue;
+        }
         // Just an isolated a
         phonetics.push('a');
         continue;

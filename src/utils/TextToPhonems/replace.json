@@ -4,11 +4,13 @@
 // Shift + N = أ
 // Shift + Q =  ً
 // Shift + F =  ّ
-// ْ
 [
-    {"searchValue":/رفتن/gi, "newValue":"رفْتن"},
-    {"searchValue":/خوردن/gi, "newValue":"خُرْدن"},
-    {"searchValue":/شستن/gi, "newValue":"شُسْتن"},
-    {"searchValue":/گفتن/gi, "newValue":"گُفْتَن"},
-    {"searchValue":/نخوردم/gi, "newValue":"نَخُرْدَم"}
+    {"searchValue":/رفت/gi, "newValue":"رفْت"},
+    {"searchValue":/خورد/gi, "newValue":"خُرْد"},
+    {"searchValue":/شست/gi, "newValue":"شُسْت"},
+    {"searchValue":/گفت/gi, "newValue":"گُفْت"},
+    {"searchValue":/استنتاج/gi, "newValue":"اِسْتِنْتاج"},
+    {"searchValue":/احتمال/gi, "newValue":"اِحْتِمال"},
+    {"searchValue":/اشکال/gi, "newValue":"اِشْکال"},
+    {"searchValue":/فارس/gi, "newValue":"فارْس"}
 ]
